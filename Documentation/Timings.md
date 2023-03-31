@@ -5,7 +5,7 @@
 - [End of turn]: After the player ends its Main Phase
 
 # Action Steps
-If during any step occurs a change in the game state that triggers an effect: that trigger happens before going to the next step.
+If at the end of any step a change occured in the game state that triggers an effect: that trigger happens and all resulting effects must be resolved at that time before going to the next step.
 
 ## Unit play steps
 
