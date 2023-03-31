@@ -1,3 +1,5 @@
+[<- Home](../README.md)
+
 ## Game Rules
 The game is to be played by 2 players, each one will build a main consisting of 40 cards and a card pool consisting of 10 cards, there can't be more than 4 cards of the same id combined between both the deck and card pool.
 
@@ -73,3 +75,5 @@ When a unit attack resolves the lane opposite to the lane of the attacking unit 
 At combat resolution the effective power of both cards is compared and the result determines one of the following outcomes.
 - If a unit has higher effective power than the other it wins combat and the other unit dies.
 - If both units have equal effective power and their effective power is higher than 0 both units die.
+
+[<- Home](../README.md)
