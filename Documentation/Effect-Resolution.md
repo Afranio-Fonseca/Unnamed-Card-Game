@@ -1,3 +1,5 @@
+[<- Home](../README.md)
+
 # Effect types
 Units and lands may have trigger effects and continuous effects, tech cards have a effect that goes off once when they are played before they get sent to the trash and is resolved like a trigger effect.
 
@@ -32,3 +34,5 @@ Cards with continuous effects that are enabled outside the unit or land zones wi
 
 #### Continuous effect reach & conditions
 Continuous effects may only reach cards at a certain zone and/or of a specific tribe, their reach & conditions are described before the effect and that effect only applies to cards within the effect's reach and that meet its conditions.
+
+[<- Home](../README.md)
