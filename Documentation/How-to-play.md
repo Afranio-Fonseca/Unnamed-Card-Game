@@ -15,11 +15,10 @@ If the turn player has no card in their deck he loses the game otherwise he draw
 #### Main Phase
 During the Main Phase the turn player can choose to do any of the following as much times as possible:
 - Play a unit card to an empty unit zone;
-- Play a tech card;
-- Equip a equip card to a unit;
 - Play a land card to an empty land zone;
-- [Rest] 2 a unit to Attack with that unit;
-- [Rest] 2 a unit to move that unit to an empty unit zone that is adjacent to its current zone;
+- Play a tech card;
+- Rest a unit in a unit zone until the start of his next turn to Attack with that unit;
+- Rest a unit in a unit zone until the start of his next turn to move that unit to an empty unit zone that is adjacent to its current zone;
 - Trigger a [Main] effect from a unit or land card in a respective zone.
 
 When the player chooses to not do any action in his main phase the turn is passed to the other player
