@@ -54,9 +54,9 @@ Discarded cards and used tech cards are sent to this zone.
 #### Lanes(Unit & Land zones)
 
 Each lane in the game has the following set of zones:
-- Frontline unit zone: Unit zone where the unit here has its effective power calculated by their frontline power.
-- Backline unit zone: Unit zone where the unit here has its effective power calculated by their backline power.
-- Land zone : A land zone that will interact with units in both the frontline and backline zone of this lane.
+- 1 Frontline unit zone: Unit zone where the unit here has its effective power calculated by their frontline power.
+- 1 Backline unit zone: Unit zone where the unit here has its effective power calculated by their backline power.
+- 1 Land zone : A land zone that will interact with units in both the frontline and backline zone of this lane.
 
 The standard way to place each zone in a lane is the frontline at the front followed by the land zone then followed by the backline.
 Each player has three(3) lanes which directly faces one of the other player's lane.
