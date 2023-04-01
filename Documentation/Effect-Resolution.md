@@ -13,7 +13,7 @@ Cards with triggers that may happen outside of the unit or land zones will indic
 If after the trigger description there is a '?' it means the player can refuse to activate it when the trigger occurs, the activation is mandatory otherwise.
 
 #### Trigger conditions
-Some triggers may have conditions on top of the actual trigger, these may reffer to a specific zone it has to happen or a tribe the card must belong, reffer to the documentation on triggers list for a full list on that.
+Some triggers may have conditions on top of the actual trigger, these may reffer to a specific zone it has to happen or a tribe the card must belong, reffer to the [documentation on triggers](Trigger-list.md).
 
 #### Effect conditions
 Each effect may contain a condition for it to happen, if the condition isn't met the effect doesn't happen.
