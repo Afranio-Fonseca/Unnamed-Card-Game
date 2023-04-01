@@ -1,4 +1,4 @@
-[<- Home](../README.md)
+[<- Back](Effect-Resolution.md)
 
 ## Trigger parameters
 Triggers may contain parameters that may be part of the effect requirements or interacted by the effect;
@@ -13,6 +13,7 @@ Triggers may contain parameters that may be part of the effect requirements or i
 - [End of Turn]
 - [Main]: During the Main Phase in a neutral state the player may use an action to activate this trigger effect.
 - [On Play]
+- [On Summon]
 - [On Unit Summoned]{reach}{unit}: Happens after a unit is moved from a zone that is not a unit zone to a unit zone.
 - [On Unit Death]{reach}{unit}: Happens after a unit is moved from a zone that is not the graveyard to the graveyard.
 - [On Unit Attack]{reach}{unit}: Happens after the [When Attacking] of a unit is triggered.
@@ -34,4 +35,4 @@ Triggers may contain parameters that may be part of the effect requirements or i
 
 #### Land triggers
 
-[<- Home](../README.md)
+[<- Back](Effect-Resolution.md)
